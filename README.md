@@ -26,6 +26,13 @@ Implement as much options below as you can:
     - with moveUp button, move the item of the list to the one up position (if it's the first element - do nothing)
     - with moveDown button, move the item of the list to the one bottom position (if it's the last element - do nothing)
 
-## Your DEMO LINK
-
-- [DEMO LINK](https://<your-account>.github.io/react_product-categories-practice/)
+## Instructions
+- Fork, clone and run `npm i`
+- fix the DEMO LINK below (use your github username and the repo name)
+  - [DEMO LINK](https://<your-account>.github.io/<your-repo-name>)
+- implement tasks one by one (You can do it in the `App.tsx`)
+- `commit`, `push` and `deploy` after each task
+- Send a link to your `App.tsx` file to your personal Slack channel (for example #fe_apr22_misha_hrynko)
+- Send a message about solving the next tasks after each `push` and `deploy` (e.g. Task 3 is done)
+- If you are done with the required tasks please proceed solving the optional once
+- Stop when the time is over (typically 2.5 hours from start)
